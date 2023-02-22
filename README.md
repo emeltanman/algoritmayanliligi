@@ -1,5 +1,5 @@
 
-## **Algoritma Yanlılığı ve Topluma Etkisi**
+## **Algoritmik Yanlılık ve Topluma Etkisi**
                                                      
 İnsanlar, karar verme verimliliklerini ve nesnelliklerini artırmak için genellikle yapay zeka (AI) algoritmalarına güvenirler.Ancak bu algoritmaların çıktılarında sosyal önyargılar var olabiliyor.
 
