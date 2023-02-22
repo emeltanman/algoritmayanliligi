@@ -28,3 +28,4 @@ Sonuç olarak bu algoritmaları yine bizler gibi kendine ait farklı düşüncel
 
 
 kaynak: https://www.pnas.org/doi/10.1073/pnas.2204529119
+*Bu bir www.patika.dev proje ödevidir.*
